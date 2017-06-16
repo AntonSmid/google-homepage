@@ -1,0 +1,1 @@
+This is the first project for The Odin Project. A visual copy of the Google's webpage.
